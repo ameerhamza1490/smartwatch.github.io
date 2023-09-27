@@ -27,27 +27,27 @@ hearBtn.addEventListener("click", function () {
 var image = document.getElementById("watch-img");
 var blueWatch = document.getElementById("blue");
 blueWatch.addEventListener("click",function(){
-    image.src = "blueWatch.png";
+    image.src = "https://raw.githubusercontent.com/ameerhamza1490/smartwatch.github.io/main/blueWatch.png";
 })
 
 var blackWatch = document.getElementById("black");
 blackWatch.addEventListener("click", function(){
-    image.src = '/black.png';
+    image.src = 'https://raw.githubusercontent.com/ameerhamza1490/smartwatch.github.io/main/black.png';
 })
 
 var redWatch = document.getElementById("red");
 redWatch.addEventListener("click", function(){
-    image.src = '/red.png';
+    image.src = 'https://raw.githubusercontent.com/ameerhamza1490/smartwatch.github.io/main/red.png';
 })
 
 var purpleWatch = document.getElementById("purple");
 purpleWatch.addEventListener("click", function(){
-    image.src = '/purple.png';
+    image.src = 'https://raw.githubusercontent.com/ameerhamza1490/smartwatch.github.io/main/purple.png';
 })
 
 var pinkWatch = document.getElementById("pink");
 pinkWatch.addEventListener("click", function(){
-    image.src = '/pink.png';
+    image.src = 'https://raw.githubusercontent.com/ameerhamza1490/smartwatch.github.io/main/pink.png';
 })
 
 
